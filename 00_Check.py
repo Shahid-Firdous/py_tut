@@ -1,0 +1,10 @@
+a=(1,2,3,3)
+b=[1,"ee",1]
+c={12,"dd"}
+d={12:"dddd","dddd":33}
+e="shh"
+print(a,type(a))
+print(b,type(b))
+print(c,type(c))
+print(d,type(d))
+print(e,type(e))
